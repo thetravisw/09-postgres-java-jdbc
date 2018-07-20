@@ -17,6 +17,9 @@ You must construct at least these following types of queries:
 * One query that returns results constrained by at least two parameters.
 * One query that returns results based on an SQL join.
 
+Your program should accept input from `System.in` and read it with a Scanner.
+Make something cool!
+
 ## Project Structure
 Your project must have the following classes:
 
